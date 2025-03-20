@@ -1,0 +1,10 @@
+@layer layouts {
+  .smol-container {
+    width: min(100% - 3rem, var(--container-max, 60ch));
+    margin-inline: auto;
+  }
+
+  .heading {
+    color: blue;
+  }
+}

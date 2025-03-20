@@ -1,0 +1,12 @@
+@import '@acab/reset.css' layer(reset);
+
+/* custom reset styles */
+@layer reset {
+  body {
+    background-color: white;
+  }
+
+  .heading {
+    color: red;
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "css-only",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "browserslist": "^4.24.4",
+    "lightningcss": "^1.29.3",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@acab/reset.css": "^0.11.0"
+  }
+}
